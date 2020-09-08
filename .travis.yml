@@ -13,5 +13,5 @@ addons:
 
 scripts:
   - ./mvnw clean install -B
-  - ./mvnw clean verify sonar:sonar -Pcoverage
+#  - ./mvnw clean verify sonar:sonar -Pcoverage
 #  - ./mvnw clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar
