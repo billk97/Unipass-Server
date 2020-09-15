@@ -1,4 +1,4 @@
-FROM openjdk:11-jre-alpine
+FROM hirokimatsumoto/alpine-openjdk-11
 
 ENV APP_ROOT /app
 
